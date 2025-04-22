@@ -1,0 +1,436 @@
+.createroom{
+    position: absolute;
+    align-items: center;
+    margin-left: 26%;
+    margin-top: 12%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 35px;
+    border-radius: 10px;
+}
+
+.Createroomh1{
+    margin-right: 2px;
+    color: #1b1111;
+    font-family: "Poppins", sans-serif;
+    background-color: #a084a3; /* Yellow highlight color, adjust as needed */
+  display: inline; /* Ensures that the background color only covers the text */
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border-radius: 10px;
+
+}
+
+label{
+    font-size: larger;
+    font-family: "Poppins", sans-serif;
+}
+
+input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+
+
+  @media ( min-width: 850px ) and ( max-width: 915px){
+    .createroom{
+      position: absolute;
+      align-items: center;
+      margin-left: 15%;
+      margin-top: 20%;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      padding: 35px;
+      border-radius: 10px;
+  }
+   
+
+  .button{
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    
+    font-size: 10px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+
+  }
+
+  @media (min-width : 915px) and ( max-width: 950px){
+    .createroom{
+      position: absolute;
+      align-items: center;
+      margin-left: 16%;
+      margin-top: 20%;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      padding: 35px;
+      border-radius: 10px;
+  }
+   
+
+  .button{
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    
+    font-size: 10px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+  }
+
+
+  @media (min-width : 950px) and ( max-width: 1000px){
+    .createroom{
+      position: absolute;
+      align-items: center;
+      margin-left: 17%;
+      margin-top: 20%;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      padding: 35px;
+      border-radius: 10px;
+  }
+   
+
+  .button{
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    
+    font-size: 10px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+  }
+
+  @media (min-width : 1000px) and ( max-width: 1060px){
+    .createroom{
+      position: absolute;
+      align-items: center;
+      margin-left: 19%;
+      margin-top: 17%;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      padding: 35px;
+      border-radius: 10px;
+  }
+   
+
+  .button{
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    
+    font-size: 10px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+  }
+
+  @media (min-width : 1060px) and ( max-width: 1090px){
+    .createroom{
+      position: absolute;
+      align-items: center;
+      margin-left: 19%;
+      margin-top: 15%;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      padding: 35px;
+      border-radius: 10px;
+  }
+   
+
+  .button{
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    
+    font-size: 10px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+
+  }
+
+  @media (min-width : 1090px) and ( max-width: 1122px){
+    .createroom{
+      position: absolute;
+      align-items: center;
+      margin-left: 18%;
+      margin-top: 16%;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      padding: 35px;
+      border-radius: 10px;
+  }
+   
+
+  .button{
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    
+    font-size: 10px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+
+  }
+
+  @media (min-width : 1122px) and ( max-width: 1155px){
+    .createroom{
+      position: absolute;
+      align-items: center;
+      margin-left: 10%;
+      margin-top: 17%;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      padding: 35px;
+      border-radius: 10px;
+  }
+   
+
+  .button{
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    
+    font-size: 11px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+  }
+
+  @media (min-width : 1122px) and ( max-width: 1245px){
+    .createroom{
+      position: absolute;
+      align-items: center;
+      margin-left: 21%;
+      margin-top: 15%;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      padding: 35px;
+      border-radius: 10px;
+  }
+   
+
+  .button{
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    
+    font-size: 12px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+  }
+ 
+
+  .roomIdParagraph{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1d21; 
+    margin-top: 2%;
+    margin-right: 11%;
+  }
+  }
+
+.room-info {
+  margin-top: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.roomIdParagraph {
+  font-weight: bold;
+  font-size: 20px;
+  color: #1a1d21;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.enter-room-button {
+  padding: 8px 16px;
+  background-color: #1a1a1a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.2s, transform 0.2s;
+  height: 40px;
+  width: 80%;
+  margin: 10px auto 0;
+  display: block;
+}
+
+.enter-room-button:hover {
+  background-color: #2a2a2a;
+  transform: scale(1.05);
+}
